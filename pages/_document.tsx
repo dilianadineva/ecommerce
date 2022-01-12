@@ -12,6 +12,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-P93ZG66');`}}></script>
 
         <body className="loading">
+        <noscript dangerouslySetInnerHTML={{ __html: `<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P93ZG66"
+height="0" width="0" style="display:none;visibility:hidden"></iframe>`}}></noscript>
           <Main />
           <NextScript />
           smth
