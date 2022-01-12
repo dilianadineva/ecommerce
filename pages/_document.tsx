@@ -8,6 +8,7 @@ class MyDocument extends Document {
         <body className="loading">
           <Main />
           <NextScript />
+          smth
         </body>
       </Html>
     )
